@@ -116,7 +116,7 @@ Use only against systems you are authorized to test. Unauthorized access is ille
 
 ## 👷 Contribution
 	1.	Fork the repo
-	2.	Make changes in feature branch
+	2.	Make changes in the feature branch
 	3.	Submit PR
 
 ⸻
