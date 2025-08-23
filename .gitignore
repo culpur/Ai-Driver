@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+results/*
+targets/*/report.md
+targets/*/results.json
+targets/*/.trash
+targets/*/.cache
+.env
+!.env.example
